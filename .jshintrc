@@ -1,0 +1,22 @@
+{
+  "esnext": true,
+  "strict": true,
+  "node": true,
+  "mocha": true,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "freeze": true,
+  "latedef": true,
+  "maxcomplexity": 4,
+  "maxdepth": 2,
+  "maxparams": 3,
+  "maxstatements": 8,
+  "nonew": true,
+  "singleGroups": true,
+  "undef": true,
+  "unused": true,
+  "varstmt": true,
+  "shadow": "outer",
+  "futurehostile": true
+}
