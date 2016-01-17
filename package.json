@@ -1,0 +1,29 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "stream-adventure solutions",
+  "main": "index.js",
+  "dependencies": {
+    "concat-stream": "^1.5.1",
+    "split": "^1.0.0",
+    "through2": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcnr/stream-adventure.git"
+  },
+  "keywords": [
+    "stream-adventure",
+    "solutions"
+  ],
+  "author": "Norman Dela Cruz",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dcnr/stream-adventure/issues"
+  },
+  "homepage": "https://github.com/dcnr/stream-adventure#readme"
+}
