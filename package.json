@@ -5,8 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "concat-stream": "^1.5.1",
+    "is-buffer": "^1.1.1",
     "split": "^1.0.0",
-    "through2": "^1.1.1"
+    "through2": "^1.1.1",
+    "websocket-stream": "^3.0.1"
   },
   "devDependencies": {},
   "scripts": {
